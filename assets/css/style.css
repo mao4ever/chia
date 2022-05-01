@@ -21,6 +21,9 @@
   background: black;
   color: white;
   overflow: hidden;
+  text-align: center;
+  justify-content: space-between;
+  justify-items: center;
 }
 
 #footer .wrap > div{
